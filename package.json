@@ -1,0 +1,23 @@
+{
+  "name": "readme-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SteveWeed79/README-Maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SteveWeed79/README-Maker/issues"
+  },
+  "homepage": "https://github.com/SteveWeed79/README-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
