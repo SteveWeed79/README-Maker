@@ -1410,6 +1410,6 @@ Feel free to email me with any questions at ${data.email}
 
 
         fs.writeFile('./output/README.md', buildReadMe, (error, data) =>
-            error ? console.error(error) : console.log("Your README.md Creations Was Successful!")
+            error ? console.error(error) : console.log("Your README.md Creation Was Successful!")
         );
     });
