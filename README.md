@@ -18,7 +18,8 @@
 ## Usage
 
  This application makes building readme files quick and stress free.  
-
+ 
+ Link to video walkthrough -  https://drive.google.com/file/d/1_HmZTlOChra0LKY_XUERAOHFugZvFXSv/view?usp=sharing
     
 ![alt text](assets/screenshot.JPG)
 
